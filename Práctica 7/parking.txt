@@ -1,0 +1,9 @@
+# zonas ‘A’-‘F’, cada una con 10 plazas. Las zonas ‘E’ y ‘F’ para eléctricos
+F;10;E
+# coches aparcados con la hora de entrada
+A2;5746VGF;11:00
+C6;8204VFG;11:00
+E1;9875BNG;14:30
+E3;5678FGH;13:00
+E10;1234BCD;11:30
+F2;2408FKL;12:00
