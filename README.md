@@ -1,6 +1,7 @@
 # parkingApp
 
 El presente proyecto ha sido desarrollado en Java usando eclipse como IDE.
+
 Consiste en una serie de prácticas para la asignatura de programación II, del grado de ingeniería de tecnologías de telecomunicación (Universidad de Vigo)
 a lo largo de las cuales he ido perfeccionando mi aprendizaje con el lenguaje Java partiendo desde lo más básico del lenguaje y llegando hasta la serialización
 de ficheros en la última práctica, la subida aquí, donde se presenta el proyecto completo.
